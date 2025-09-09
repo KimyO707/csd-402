@@ -1,5 +1,5 @@
 # CSD 402
 ## Java for Programmers
 ### Contributors
-* Darrell Payne
+* Professor Darrell Payne
 * Kimberly Orozco
