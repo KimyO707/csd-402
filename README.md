@@ -1,2 +1,5 @@
-# csd-402
-Java for Programmers
+# CSD 402
+## Java for Programmers
+### Contributors
+* Darrell Payne
+* Kimberly Orozco
